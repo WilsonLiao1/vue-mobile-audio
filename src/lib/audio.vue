@@ -115,6 +115,7 @@ export default {
             background: #ddd;
             position: absolute;
             top: 4px;
+            right: 3px;
         }
     }
     .x-sector::before{
